@@ -14,3 +14,6 @@ Bu proje, kullanıcıların sesli komutlar aracılığıyla çeşitli işlemler 
 - `speech_recognition` kütüphanesi
 - `pyttsx3` kütüphanesi
 - `webbrowser` modülü (web sitelerini açmak için)
+
+## Katkıda Bulunanlar
+ ***Adil Buğra AYTAR***
