@@ -18,4 +18,5 @@ Bu proje, kullanıcıların sesli komutlar aracılığıyla çeşitli işlemler 
 ## Katkıda Bulunanlar
  ***Adil Buğra AYTAR***
  
-##
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
