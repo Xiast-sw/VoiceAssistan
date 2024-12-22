@@ -1,22 +1,22 @@
 # Voice Assistant
 
-### Proje Tanımı
-Bu proje, kullanıcıların sesli komutlar aracılığıyla çeşitli işlemler yapabilmesine olanak tanıyan bir sesli asistan uygulamasıdır. Asistan, web sitelerini açma, hava durumu bilgisi alma, saat öğrenme ve bilgisayarı kapatma gibi işlevler sunmaktadır.
+### Project Description
+This project is a voice assistant application that allows users to perform various tasks through voice commands. The assistant offers functionalities such as opening websites, checking weather information, telling the time, and shutting down the computer.
 
-### Özellikler
-- **Sesli Komutlar**: Kullanıcı, belirli komutları sesli olarak vererek asistanı kontrol edebilir.
-- **Web Sitesi Açma**: Kullanıcının belirttiği web sitelerini açma yeteneği.
-- **Saat Bilgisi**: Anlık saat bilgisini sesli ve yazılı olarak sağlama.
-- **Bilgisayarı Kapatma**: Kullanıcının komutuyla bilgisayarı kapatma işlemi.
+### Features
+- **Voice Commands**: Users can control the assistant by giving specific commands verbally.
+- **Open Websites**: The ability to open websites specified by the user.
+- **Time Information**: Provides the current time both audibly and in text.
+- **Shutdown Computer**: The ability to shut down the computer based on the user's command.
 
-### Gereksinimler
+### Requirements
 - Python 3.x
-- `speech_recognition` kütüphanesi
-- `pyttsx3` kütüphanesi
-- `webbrowser` modülü (web sitelerini açmak için)
+- `speech_recognition` library
+- `pyttsx3` library
+- `webbrowser` module (for opening websites)
 
-### Katkıda Bulunanlar
- ***Adil Buğra AYTAR***
- 
-### Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+### Contributors
+***Adil Buğra AYTAR***
+
+### License
+This project is licensed under the MIT License.
